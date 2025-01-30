@@ -10,11 +10,6 @@
 
 I am a **Full-Stack Developer** with a passion for designing and developing **responsive, interactive, and scalable** web applications. My expertise lies in **React.js, Java, and SQL**, enabling me to craft seamless user experiences and high-performance web solutions. I thrive on learning new technologies, solving complex problems, and bringing creative ideas to life.
 
-🔹 **Front-end:** HTML, CSS, JavaScript, Bootstrap, React.js  
-🔹 **Back-end:** Java, Spring Boot  
-🔹 **Databases:** MySQL  
-🔹 **Other Languages:** C, C++  
-
 🌟 *Currently focusing on improving backend development skills while working on exciting full-stack projects!*
 
 ---
@@ -61,14 +56,3 @@ I am a **Full-Stack Developer** with a passion for designing and developing **re
 
 ---
 
-## 🎯 Goals
-
-✔ Continue growing as a **Full-Stack Developer**  
-✔ Build **innovative web applications** solving real-world problems  
-✔ Contribute to **open-source projects** and collaborate with developers worldwide  
-
----
-
-## 🎉 Fun Fact
-
-When I'm not coding, I love working on **robotics projects** and exploring **new technologies**! 🤖🚀
