@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**dishaakotkar/dishaakotkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Disha Akotkar! 👋
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creative and passionate Web Developer with a knack for designing engaging and responsive websites. My focus is on delivering innovative solutions and enhancing user experiences through cutting-edge technologies.
+
+📍 Nagpur, Maharashtra, India📩 Email Me🔗 LinkedIn🐙 GitHub
+
+🛠️ Tech Stack
+
+Languages: C, C++
+
+Frontend: HTML, CSS, JavaScript, Bootstrap, React.js
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, MySQL
+
+Tools & Platforms: Git, GitHub, VS Code, Postman
+
+
+
