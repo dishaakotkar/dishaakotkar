@@ -60,6 +60,3 @@ I am a **Full-Stack Developer** with a passion for designing and developing **re
 
 ---
 
-## 🎉 Fun Fact
-
-When I'm not coding, I love working on **robotics projects** and exploring **new technologies**! 🤖🚀
