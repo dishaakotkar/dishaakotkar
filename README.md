@@ -1,6 +1,6 @@
 ### Hi there, I'm **Disha Rajendra Akotkar**! 👋✨
 
-🚀 **Creative Web Developer** | 💻 Full-Stack Enthusiast | 🎨 Passionate UI/UX Designer  
+🚀 **Creative Web Developer** | 💻 Full-Stack Enthusiast  
 📍 *Nagpur, Maharashtra, India*  
 📧 *dishaakotkar7745@gmail.com*  
 
