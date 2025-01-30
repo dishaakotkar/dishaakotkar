@@ -1,6 +1,6 @@
 ### Hi there, I'm **Disha Rajendra Akotkar**! 👋✨
 
-🚀 **Creative Web Developer** | 💻 Full-Stack Enthusiast  
+🚀 **Creative Web Developer** | 💻 Full-Stack Enthusiast | 🎨 Passionate UI/UX Designer  
 📍 *Nagpur, Maharashtra, India*  
 📧 *dishaakotkar7745@gmail.com*  
 
@@ -44,6 +44,15 @@ I am a **Full-Stack Developer** with a passion for designing and developing **re
 
 ---
 
+<h3 align="left">▶ Stats:</h3>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/dishaakotkar/dishaakotkar?style=for-the-badge"/>
+  <img src="https://badges.pufler.dev/repos/dishaakotkar/?style=for-the-badge"/>
+</p>
+
+---
+
 ## 📞 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-akotkar-1b2337294)  
@@ -60,3 +69,6 @@ I am a **Full-Stack Developer** with a passion for designing and developing **re
 
 ---
 
+## 🎉 Fun Fact
+
+When I'm not coding, I love working on **robotics projects** and exploring **new technologies**! 🤖🚀
