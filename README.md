@@ -30,12 +30,6 @@ I am a **Full-Stack Developer** with a passion for designing and developing **re
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishaakotkar&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaakotkar&layout=compact&theme=radical" />
-</p>
 
 ---
 
